@@ -1,0 +1,57 @@
+@import "../fonts/roboto/stylesheet.css";
+@import "../fonts/liberation/stylesheet.css";
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #E5E5E5;
+}
+.shipping{
+  background-color: black;
+  height: 50px;
+  text-align: center;
+  font-family: Roboto,sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #FFFFFF;
+  padding: 16px 0 ;
+}
+
+
+@media (max-width: 768px) {
+  .shipping{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 7;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import "header";
+@import "main";
+@import "footer";
+@import "burger";

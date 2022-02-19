@@ -1,0 +1,44 @@
+.fifth-screen{
+  background-color: black;
+  padding: 95px 0 50px;
+  &__big-box{
+    display: flex;
+    justify-content: space-between;
+  }
+  &__box{
+    width: 330px;
+    height: 213px;
+  }
+  &__title{
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  &__subtitle{
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 17px 0 10px;
+  }
+  &__link{
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #8A8A8A;
+    text-decoration: none;
+    margin: 20px 0 0 120px;
+  }
+}

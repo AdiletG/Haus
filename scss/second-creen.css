@@ -1,0 +1,99 @@
+.second-screen__big-box {
+  display: flex;
+  justify-content: space-between;
+  margin: 55px 0 73px;
+}
+.second-screen__box {
+  width: 350px;
+  height: 155px;
+}
+.second-screen__box-title {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  color: #000000;
+}
+.second-screen__box-img {
+  margin: 36px 25px 0 25px;
+}
+.second-screen__first-line, .second-screen__second-line {
+  width: 100%;
+  height: 1px;
+  background-color: #BDBDBD;
+  margin: 41px 0 105px;
+}
+.second-screen__title {
+  font-family: Liberation Serif, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 80px;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 24px;
+}
+.second-screen__subtitle {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #000000;
+  text-align: center;
+}
+.second-screen__cards {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 82px;
+}
+.second-screen__card {
+  width: 383px;
+  height: 665px;
+}
+.second-screen__card-img {
+  margin-bottom: 19px;
+}
+.second-screen__card-title {
+  font-family: Liberation Serif, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 31px;
+  line-height: 44px;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 16px;
+}
+.second-screen__card-subtitle {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 27px;
+}
+.second-screen__card-btn {
+  width: 180px;
+  height: 52px;
+  background-color: black;
+  color: white;
+  transition: all 0.3s;
+  border: 1px solid black;
+  margin: 0 101px;
+}
+.second-screen__card-btn:hover {
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
+.second-screen__second-line {
+  margin: 141px 0 60px;
+}
+
+/*# sourceMappingURL=second-creen.css.map */

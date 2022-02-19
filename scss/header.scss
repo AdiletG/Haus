@@ -1,0 +1,39 @@
+.header{
+  display: flex;
+  padding: 25px 0 31px;
+  position: absolute;
+  width: 100%;
+  z-index: 5;
+  &__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__menu{
+    display: flex;
+    column-gap: 64px;
+  }
+  &__title{
+  }
+  &__list-link{
+    text-decoration: none;
+    list-style: none;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #fff;
+    &:hover{
+      color: #FFFFFF90;
+    }
+  }
+}
+.container{
+  width: 1320px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}

@@ -1,0 +1,66 @@
+.four-screen__content {
+  display: flex;
+}
+.four-screen__text-box {
+  width: 40%;
+  height: 100%;
+}
+.four-screen__text-box-first-title {
+  font-family: Liberation Serif, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 44px;
+  color: #000000;
+}
+.four-screen__text-box-first-subtitle {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  color: #000000;
+  margin: 19px 59px 0 0;
+}
+.four-screen__text-box-second-title {
+  font-family: Liberation Serif, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 44px;
+  color: #000000;
+  margin: 21px 59px 0 0;
+}
+.four-screen__text-box-second-subtitle {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  color: #000000;
+  margin: 17px 67px 0 0;
+}
+.four-screen__text-box-third-title {
+  font-family: Liberation Serif, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 44px;
+  color: #000000;
+  margin: 20px 163px 0 0;
+}
+.four-screen__text-box-third-subtitle {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  color: #000000;
+  margin: 19px 86px 46px 0;
+}
+.four-screen__img {
+  width: 60%;
+  height: 100%;
+}
+
+/*# sourceMappingURL=four-screen.css.map */

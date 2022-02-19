@@ -1,0 +1,46 @@
+.fifth-screen {
+  background-color: black;
+  padding: 95px 0 50px;
+}
+.fifth-screen__big-box {
+  display: flex;
+  justify-content: space-between;
+}
+.fifth-screen__box {
+  width: 330px;
+  height: 213px;
+}
+.fifth-screen__title {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.fifth-screen__subtitle {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin: 17px 0 10px;
+}
+.fifth-screen__link {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #8A8A8A;
+  text-decoration: none;
+  margin: 20px 0 0 120px;
+}
+
+/*# sourceMappingURL=fifth-screen.css.map */
